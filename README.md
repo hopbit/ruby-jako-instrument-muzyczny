@@ -11,7 +11,7 @@ ich w prezentacji. Ostatni przykład jest inspirowany wystąpieniem
 Autorem [muzyki w tle](https://gist.github.com/jindrichmynarz/f233f75c719abe6a6c81) jest 
 [Jindrich Mynarz](https://github.com/jindrichmynarz). 
 
-Kawałek kodu o który pytał Tomek podczas prezentacji znadjuje się [tutaj](https://gist.github.com/xavriley/87ef7548039d1ee301bb).
+Kawałek kodu o który pytał Tomek podczas prezentacji znajduje się [tutaj](https://gist.github.com/xavriley/87ef7548039d1ee301bb).
 
 Zachęcam do pobrania i zabawy [Sonic Pi](http://sonic-pi.net/). Aplikacja jest dostępna 
 na platformy: Raspberry Pi, Mac OS, Windows i Linux.
