@@ -1,3 +1,5 @@
+English description below...
+
 # Ruby jako instrument muzyczny (PL)
 
 Prezentacja o Sonic Pi, która miała miejsce na spotkaniu [WRUG](http://wrug.eu/2016/03/17/spotkanie-kwietniowe/) 
