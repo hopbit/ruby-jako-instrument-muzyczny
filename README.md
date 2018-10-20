@@ -5,7 +5,7 @@ English description below...
 Prezentacja o Sonic Pi, która miała miejsce na spotkaniu [WRUG](http://wrug.eu/2016/03/17/spotkanie-kwietniowe/) 
 20 kwietnia 2016.
 
-**Nagranie wideo** można obejrzeć na [YouTube](https://youtu.be/SW5iBzmZBgc?t=15m25s) dzięki uprzejmości 
+**Nagranie wideo** można obejrzeć na [YouTube](https://youtu.be/SW5iBzmZBgc?t=15m32s) dzięki uprzejmości 
 Kamila Grabowskiego i firmy [Whitestream](https://www.youtube.com/channel/UCsYhCtyniPuCwGRf6BYqprg/feed).
 
 **Slajdy** są dostępne do pobrania z OneDrive: 
@@ -46,7 +46,7 @@ Zachęcam do pomocy [w tłumaczeniu](https://hosted.weblate.org/engage/sonic-pi/
 Presentation was held in [polish language](https://en.wikipedia.org/wiki/Poland). It took place on April, 20th 2016 
 at the [WRUG](http://wrug.eu/2016/03/17/spotkanie-kwietniowe/) meetup. 
 
-You can **watch it** on [YouTube](https://youtu.be/SW5iBzmZBgc?t=15m25s). It's available thanks to kindness of 
+You can **watch it** on [YouTube](https://youtu.be/SW5iBzmZBgc?t=15m32s). It's available thanks to kindness of 
 Kamil Grabowski and [Whitestream](https://www.youtube.com/channel/UCsYhCtyniPuCwGRf6BYqprg/feed) company.
 
 **Slides** are available to download from OneDrive (PL): 
